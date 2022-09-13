@@ -1,0 +1,26 @@
+@import "../../node_modules/bulma/bulma.sass";
+
+$blue: #004f70;
+$red: #ed4341;
+$logo_mobile_breakpoint: 33.75rem;
+$brake_point_mobile: 64rem;
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+h1, h2, h3 {
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.125;
+  color: black;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+h2 {
+  font-size: 24px;
+}
